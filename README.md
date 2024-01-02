@@ -1,4 +1,4 @@
-This code demonstrates how to use TCP/IP sockets to create a simple server and client. 
+This code demonstrates how to use TCP/IP sockets to create a simple server and client connection. 
 The server listens on port 444 and sends a welcome message to each client that connects. 
 The client sends a message to the server and receives a response.
 
